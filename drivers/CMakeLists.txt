@@ -1,0 +1,1 @@
+add_subdirectory_ifdef(CONFIG_CHENRY_SENSOR chenry_sensor)

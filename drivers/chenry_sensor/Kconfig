@@ -1,0 +1,4 @@
+menuconfig CHENRY_SENSOR
+	bool "A sensor to detect chenrys"
+	help
+	  Enable chenry sensor "sensor"
